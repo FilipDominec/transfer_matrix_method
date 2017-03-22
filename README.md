@@ -15,14 +15,16 @@ Note that a similar numerical approach of 2x2 matrices multiplication is used al
 A photonic band-gap forms for a periodic stack of dielectric bilayers. The central frequency is determined by the optical thickness of the bilayer. 
 
 In contrast, its spectral width depends mostly on the reflectance from the 1-2 and 2-1 interfaces:
-<img alt="slab_amplitude_layers=30" src="./TM_slab_amplitude_layers=30b.png" width="300px"><img alt="slab_amplitude_layers=30" src="./TM_slab_amplitude_layers=30c.png" width="300px"><img src="./TM_slab_amplitude_layers=30.png" width="300px">
+
+<img alt="slab_amplitude_layers=30" src="./TM_slab_amplitude_layers=30b.png" width="250px"><img alt="slab_amplitude_layers=30" src="./TM_slab_amplitude_layers=30c.png" width="250px"><img src="./TM_slab_amplitude_layers=30.png" width="250px">
 
 (Some maths will be added here - Work in progress)
 
 #### Oblique incidence on an interface with given permittivity
 Transmittance amplitude differs for TE (left) and TM polarisations (right):
-<img alt="slab_amplitude.png" src="./TE_slab_amplitude.png" width="300px">
-<img alt="slab_amplitude.png" src="./TM_slab_amplitude.png" width="300px">
+
+<img alt="slab_amplitude.png" src="./TE_slab_amplitude.png" width="400px">
+<img alt="slab_amplitude.png" src="./TM_slab_amplitude.png" width="400px">
 
 For TM polarisation, there are three conditions for 100% transmittance of a dielectric slab (marked by black lines):
 1) Fabry-Pérot resonance
@@ -30,8 +32,9 @@ For TM polarisation, there are three conditions for 100% transmittance of a diel
 3) Brewster angle of incidence
 
 The corresponding phase gained through propagation also differs between TE and TM. Note that TE polarisation exhibits an abrupt change of transmittance phase at the dielectric-metallic  transition, although the amplitude remains nonzero.
-<img alt="slab_phase.png" src="./TE_slab_phase.png" width="300px">
-<img alt="slab_phase.png" src="./TM_slab_phase.png" width="300px">
+
+<img alt="slab_phase.png" src="./TE_slab_phase.png" width="400px">
+<img alt="slab_phase.png" src="./TM_slab_phase.png" width="400px">
 
 #### Inspection of the field intensities inside the structure
 (Work in progress)
