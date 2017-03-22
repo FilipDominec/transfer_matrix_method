@@ -16,7 +16,7 @@ A photonic band-gap forms for a periodic stack of dielectric bilayers. The centr
 In contrast, its spectral width depends mostly on the reflectance from the 1-2 and 2-1 interfaces:
 ![slab_amplitude_layers=30](./TM_slab_amplitude_layers=30b.png)
 ![slab_amplitude_layers=30](./TM_slab_amplitude_layers=30c.png)
-![slab_amplitude_layers=30](./TM_slab_amplitude_layers=30.png)
+<img src="./TM_slab_amplitude_layers=30.png" width="300px">
 
 (Some maths will be added here - Work in progress)
 
