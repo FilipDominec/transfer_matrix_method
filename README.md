@@ -25,10 +25,10 @@ Transmittance amplitude differs for TE (left) and TM polarisations (right):
 
 <img alt="slab_amplitude.png" src="./TE_slab_amplitude.png" width="350px"><img alt="slab_amplitude.png" src="./TM_slab_amplitude.png" width="350px">
 
-For TM polarisation, there are three conditions for 100% transmittance of a dielectric slab (marked by black lines):
-1) Fabry-Pérot resonance
-2) If mu=1.0 and epsilon=1.0:
-3) Brewster angle of incidence
+There are three possible conditions for 100% transmittance of a dielectric slab (marked by black lines):
+1) Fabry-Pérot resonance (numbered black lines)
+2) If there is perfect wave-impedance match to the surrounding medium  (horizontal line at epsilon=1)
+3) Brewster angle of incidence (thick black line, for TM polarisation only)
 
 The corresponding phase gained through propagation also differs between TE and TM. Note that TE polarisation exhibits an abrupt change of transmittance phase at the dielectric-metallic  transition, although the amplitude remains nonzero.
 
@@ -41,3 +41,8 @@ The corresponding phase gained through propagation also differs between TE and T
 (Work in progress)
 
 
+## Links
+
+Another TMM implementations here on github: https://github.com/sbyrnes321/tmm and https://github.com/kitchenknif/pytmm
+
+What if the layers are laterally structured? Many approaches can be used, e.g. https://github.com/FilipDominec/python-meep-utils
