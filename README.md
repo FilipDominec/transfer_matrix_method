@@ -23,8 +23,8 @@ In contrast, its spectral width depends mostly on the reflectance from the 1-2 a
 #### Oblique incidence on an interface with given permittivity
 Transmittance amplitude differs for TE (left) and TM polarisations (right):
 
-<img alt="slab_amplitude.png" src="./TE_slab_amplitude.png" width="400px">
-<img alt="slab_amplitude.png" src="./TM_slab_amplitude.png" width="400px">
+<img alt="slab_amplitude.png" src="./TE_slab_amplitude.png" width="350px">
+<img alt="slab_amplitude.png" src="./TM_slab_amplitude.png" width="350px">
 
 For TM polarisation, there are three conditions for 100% transmittance of a dielectric slab (marked by black lines):
 1) Fabry-Pérot resonance
@@ -33,8 +33,8 @@ For TM polarisation, there are three conditions for 100% transmittance of a diel
 
 The corresponding phase gained through propagation also differs between TE and TM. Note that TE polarisation exhibits an abrupt change of transmittance phase at the dielectric-metallic  transition, although the amplitude remains nonzero.
 
-<img alt="slab_phase.png" src="./TE_slab_phase.png" width="400px">
-<img alt="slab_phase.png" src="./TM_slab_phase.png" width="400px">
+<img alt="slab_phase.png" src="./TE_slab_phase.png" width="350px">
+<img alt="slab_phase.png" src="./TM_slab_phase.png" width="350px">
 
 #### Inspection of the field intensities inside the structure
 (Work in progress)
